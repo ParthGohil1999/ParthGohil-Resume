@@ -25,10 +25,10 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 794px !important;
   background: #fff;
   margin: 0 auto 0;
-  box-shadow: 1px 1px 2px #DAD7D7;
+  box-shadow: -3px -15px 205px 150px #DAD7D7;
   border-radius: 3px;
   padding: 40px;
   margin-top: 50px;
