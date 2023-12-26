@@ -1,1 +1,0 @@
-# ParthGohil-Resume
